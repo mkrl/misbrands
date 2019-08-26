@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg1130"
+   version="1.1"
+   viewBox="0 0 112.09448 63.422398"
+   height="63.422398mm"
+   width="112.09448mm">
+  <defs
+     id="defs1124" />
+  <metadata
+     id="metadata1127">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-42.309267,-55.036301)"
+     id="layer1">
+    <path
+       id="rect1143"
+       d="m 50.191767,71.013753 v 31.713317 7.84913 h 15.682248 v -7.84913 H 81.850816 V 71.013753 Z m 15.835725,7.951451 h 7.851201 v 15.868801 h -7.851201 z"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#cb3837;stroke-width:15.76499939;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" />
+    <path
+       transform="scale(0.26458333)"
+       id="path1168"
+       d="m 404.15234,284.95117 h -59.21093 v 103.06836 h 59.21093 z"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#cb3837;stroke-width:60.02444458;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" />
+    <path
+       transform="scale(0.26458333)"
+       id="rect1161"
+       d="m 344.94141,238.02344 v 30.375 h 59.21093 v -30.375 z"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#cb3837;stroke-width:60.02444458;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" />
+    <path
+       id="rect1143-1"
+       d="m 114.86202,71.058074 v 31.713276 7.84913 h 15.68234 v -7.84913 h 15.97689 V 71.058074 Z m 15.83582,7.951451 h 7.85124 v 15.868796 h -7.85124 z"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#cb3837;stroke-width:15.76499939;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" />
+  </g>
+</svg>
