@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg:svg
+   width="186"
+   height="96"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="qt.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <svg:defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     showgrid="false"
+     inkscape:zoom="1.4205729"
+     inkscape:cx="-220.68561"
+     inkscape:cy="93.97617"
+     inkscape:window-width="1740"
+     inkscape:window-height="1315"
+     inkscape:window-x="615"
+     inkscape:window-y="518"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="text2562" />
+  <svg:g
+     stroke="#ffffff"
+     stroke-width="2.12"
+     id="g10">
+    <svg:path
+       fill="#e40000"
+       d="M 3.12,66.17 1.06,14.71 33.99,39.41 v 55.58 z"
+       id="path2" />
+    <svg:path
+       fill="#7fe719"
+       d="M 34,95 83.4,74.42 87.52,22.96 34,39.43 v 55.58 z"
+       id="path4" />
+    <svg:path
+       fill="#729fcf"
+       d="M 1.06,14.71 33.99,39.41 87.51,22.94 50.76,1.06 Z"
+       id="path6" />
+    <svg:path
+       stroke-width="1.25"
+       d="m 50.6,51.3 -47.3,14 z m 0,0 33,23 z m 0,0 v -50"
+       id="path8" />
+  </svg:g>
+  <svg:g
+     aria-label="Qt"
+     id="text2562"
+     style="font-size:64px;line-height:1.25;letter-spacing:0px;word-spacing:0px">
+    <svg:path
+       d="m 134.7805,70.705686 -3.008,-3.712 q -2.304,1.024 -4.864,1.6 -2.56,0.64 -5.376,0.64 -4.992,0 -9.28,-1.728 -4.288,-1.792 -7.552,-4.928 -3.2,-3.2 -5.056,-7.36 -1.792,-4.224 -1.792,-9.088 0,-4.864 1.792,-9.024 1.856,-4.224 5.056,-7.36 3.264,-3.2 7.552,-4.928 4.288,-1.792 9.28,-1.792 4.992,0 9.28,1.792 4.352,1.728 7.552,4.928 3.264,3.136 5.056,7.36 1.792,4.16 1.792,9.024 0,4.8 -1.856,9.024 -1.792,4.16 -4.928,7.296 l 4.48,5.568 z m -13.248,-9.984 q 1.28,0 2.368,-0.192 1.152,-0.256 2.176,-0.704 l -4.864,-6.016 8.128,-2.688 3.328,4.096 q 1.472,-1.856 2.24,-4.16 0.832,-2.304 0.832,-4.928 0,-3.136 -1.088,-5.76 -1.088,-2.688 -3.008,-4.608 -1.92,-1.984 -4.48,-3.072 -2.56,-1.152 -5.632,-1.152 -3.008,0 -5.632,1.152 -2.56,1.088 -4.48,3.072 -1.856,1.92 -2.944,4.608 -1.088,2.624 -1.088,5.76 0,3.072 1.088,5.76 1.088,2.688 2.944,4.672 1.92,1.92 4.48,3.072 2.624,1.088 5.632,1.088 z"
+       style="font-weight:800;font-family:'Red Hat Display';-inkscape-font-specification:'Red Hat Display Ultra-Bold'"
+       id="path827" />
+    <svg:path
+       d="m 166.84448,69.041686 q -5.568,0 -8.448,-2.496 -2.816,-2.56 -2.816,-7.424 v -16.64 h -6.848 v -7.296 h 6.848 v -8.512 l 8.768,-1.984 v 10.496 h 9.536 v 7.296 h -9.536 v 14.848 q 0,2.304 1.024,3.328 1.024,0.96 3.584,0.96 1.28,0 2.304,-0.128 1.088,-0.192 2.368,-0.64 v 7.232 q -1.344,0.448 -3.328,0.704 -1.984,0.256 -3.456,0.256 z"
+       style="font-weight:800;font-family:'Red Hat Display';-inkscape-font-specification:'Red Hat Display Ultra-Bold'"
+       id="path829" />
+  </svg:g>
+  <svg:metadata
+     id="metadata828">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>ono ono (kuanyui)</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </svg:metadata>
+</svg:svg>
