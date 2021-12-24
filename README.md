@@ -5,4 +5,15 @@ The world's most hated IT stickers
 
 (there's more!)
 
-Inspired by Sam Beckham's [JavaScript sticker]( https://samdbeckham.gitlab.io/javascript_sticker/)
+Inspired by Sam Beckham's legendary [JavaScript sticker]( https://samdbeckham.gitlab.io/javascript_sticker/)
+
+## FAQ: 
+
+#### Can I print these?
+Of course, that's why those are here.
+
+#### Can I buy these?
+Yes, you can! Not from me, but from any custom sticker vendor of your choice.
+
+#### Will there be more?
+Unlikely but still possible.
