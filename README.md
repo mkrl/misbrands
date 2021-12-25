@@ -13,7 +13,7 @@ Inspired by Sam Beckham's legendary [JavaScript sticker]( https://samdbeckham.gi
 Of course, that's why those are here.
 
 #### Can I buy these?
-Yes, you can! Not from me, but from any custom sticker vendor of your choice.
+Yes, you can! Not from me, but from any custom sticker vendor of your choice, or from this (unaffiliated) [Etsy](https://www.etsy.com/listing/1133836260/cursed-programming-sticker-sheet).
 
 #### Will there be more?
 Unlikely but still possible.
