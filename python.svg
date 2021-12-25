@@ -1,0 +1,13 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 314 314" width="314" height="314">
+	<title>image</title>
+	<style>
+		tspan { white-space:pre }
+		.s0 { fill: #ffffff } 
+		.t1 { font-size: 75px;fill: #4d4a4c;font-weight: 400;font-family: "Righteous-Regular", "Righteous" } 
+	</style>
+	<path id="Shape 1" class="s0" d="m-28-19l374 0l0 365l-374 0l0-365z" />
+	<text id="Python" style="transform: matrix(1,0,0,1,36,177)" >
+		<tspan x="0" y="0" class="t1">P</tspan><tspan  y="0" class="t1">y</tspan><tspan  y="0" class="t1">t</tspan><tspan  y="0" class="t1">h</tspan><tspan  y="0" class="t1">o</tspan><tspan  y="0" class="t1">n
+</tspan>
+	</text>
+</svg>
