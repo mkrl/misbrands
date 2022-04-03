@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="146.5058mm"
+   height="33.866665mm"
+   viewBox="0 0 553.72271 127.99999"
+   id="svg0"
+   version="1.1"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="manjaro_fedora.svg"
+   inkscape:export-filename="logo_text.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs0" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="248"
+     inkscape:cy="13"
+     inkscape:document-units="px"
+     inkscape:current-layer="logo"
+     showgrid="false"
+     units="mm"
+     borderlayer="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:window-width="3440"
+     inkscape:window-height="1375"
+     inkscape:window-x="0"
+     inkscape:window-y="35"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:pagecheckerboard="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4136"
+       originx="-73.615225"
+       originy="-315.1716" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata0">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 0"
+     inkscape:groupmode="layer"
+     id="layer0"
+     transform="translate(-73.615224,379.17156)" />
+  <g
+     id="logo"
+     transform="matrix(2,0,0,2,-73.615224,315.17156)"
+     inkscape:export-filename="./logo_text_black.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <path
+       inkscape:connector-curvature="0"
+       id="rect4138"
+       d="m 36.807612,-157.58578 v 63.999994 h 18 v -45.999994 h 23 v -18 z m 46,0 v 63.999994 h 18.000008 v -63.999994 z m -23,23 v 40.999994 h 18 v -40.999994 z"
+       style="opacity:1;fill:#35bf5c;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4141"
+       y="-110.23221"
+       x="214.4014"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#444444;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="-110.23221"
+         x="214.4014"
+         id="tspan4143"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold'">fedora</tspan></text>
+  </g>
+</svg>
