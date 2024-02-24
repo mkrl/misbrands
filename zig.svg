@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="383.5975"
+   id="svg3430"
+   version="1.1"
+   viewBox="0 0 711.20123 383.5975"
+   width="711.20123"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+   id="title3510">Zig Logo</title>
+  <metadata
+   id="metadata3436">
+    <rdf:RDF>
+      <cc:Work
+   rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+   rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Zig Logo</dc:title>
+        <cc:license
+   rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+   rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+   rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+   rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+   rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+   rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+   rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+   rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+   id="defs3434"><rect
+   x="180.72435"
+   y="88.28705"
+   width="733.27599"
+   height="372.25855"
+   id="rect2" /><rect
+   x="181.47894"
+   y="77.345492"
+   width="405.96951"
+   height="200.72098"
+   id="rect1" />
+    <clipPath
+   clipPathUnits="userSpaceOnUse"
+   id="clipPath3444">
+      <path
+   d="M 11.52,162 C 11.52,81.677 135.307,16.561 288,16.561 l 0,0 c 152.693,0 276.481,65.116 276.481,145.439 l 0,0 c 0,80.322 -123.788,145.439 -276.481,145.439 l 0,0 C 135.307,307.439 11.52,242.322 11.52,162"
+   id="path3446" />
+    </clipPath>
+    <radialGradient
+   cx="0"
+   cy="0"
+   fx="0"
+   fy="0"
+   gradientTransform="matrix(363.05789,0,0,-363.05789,177.52002,256.30713)"
+   gradientUnits="userSpaceOnUse"
+   id="radialGradient3452"
+   r="1"
+   spreadMethod="pad">
+      <stop
+   id="stop3454"
+   offset="0"
+   style="stop-opacity:1;stop-color:#aeb2d5" />
+      <stop
+   id="stop3456"
+   offset="0.3"
+   style="stop-opacity:1;stop-color:#aeb2d5" />
+      <stop
+   id="stop3458"
+   offset="0.75"
+   style="stop-opacity:1;stop-color:#484c89" />
+      <stop
+   id="stop3460"
+   offset="1"
+   style="stop-opacity:1;stop-color:#484c89" />
+    </radialGradient>
+    <clipPath
+   clipPathUnits="userSpaceOnUse"
+   id="clipPath3468">
+      <path
+   d="M 0,324 576,324 576,0 0,0 0,324 Z"
+   id="path3470" />
+    </clipPath>
+    <clipPath
+   clipPathUnits="userSpaceOnUse"
+   id="clipPath3480">
+      <path
+   d="M 0,324 576,324 576,0 0,0 0,324 Z"
+   id="path3482" />
+    </clipPath>
+  </defs>
+  <g
+   id="g3438"
+   transform="matrix(1.25,0,0,-1.25,-4.4,394.29875)">
+    
+    <g
+   id="g10"><g
+     id="g3440">
+      <g
+   clip-path="url(#clipPath3444)"
+   id="g3442">
+        <g
+   id="g3448">
+          <g
+   id="g3450">
+            <path
+   d="M 11.52,162 C 11.52,81.677 135.307,16.561 288,16.561 l 0,0 c 152.693,0 276.481,65.116 276.481,145.439 l 0,0 c 0,80.322 -123.788,145.439 -276.481,145.439 l 0,0 C 135.307,307.439 11.52,242.322 11.52,162"
+   id="path3462"
+   style="fill:url(#radialGradient3452);stroke:none" />
+          </g>
+        </g>
+      </g>
+    </g><g
+     id="g3464">
+      <g
+   clip-path="url(#clipPath3468)"
+   id="g3466">
+        <g
+   id="g3472"
+   transform="translate(288,27.3594)">
+          <path
+   d="M 0,0 C 146.729,0 265.68,60.281 265.68,134.641 265.68,209 146.729,269.282 0,269.282 -146.729,269.282 -265.68,209 -265.68,134.641 -265.68,60.281 -146.729,0 0,0"
+   id="path3474"
+   style="fill:#777bb3;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        </g>
+      </g>
+    </g></g>
+    
+  <g
+   id="text2"
+   style="font-style:italic;font-size:266.667px;font-family:Newtown;-inkscape-font-specification:'Newtown, Italic';letter-spacing:3px;white-space:pre;shape-padding:4.26861;stroke:#ffffff;stroke-width:14.9174;stroke-linejoin:round;paint-order:markers stroke fill"
+   transform="matrix(0.82633792,0,0.04694249,-0.76605373,-43.202901,373.716)"
+   aria-label="zig"><path
+     d="m 580.39474,196.89104 h -67.73342 q -21.06669,0 -34.66671,4.80001 -13.86668,4.80001 -30.40004,18.40002 -10.40001,7.73335 -17.06668,22.13336 -4.53334,8.80001 -9.86668,30.40004 -1.33334,5.33334 -1.86667,8.53334 -0.26667,1.86667 -0.26667,7.73335 0,11.73334 4.80001,23.46669 9.06668,21.8667 32.80004,24.2667 1.06667,0.26667 3.46667,0.53333 l 4.26667,0.53334 h 9.33335 2.93333 4.80001 l 27.20003,-0.26667 q -5.6,21.86669 -27.73337,21.86669 H 414.2612 l -7.20001,28.53337 q 99.73346,0 116.80014,-14.13335 16.80002,-13.86668 23.20003,-41.60005 z m -44.80006,30.13337 -20.53336,81.33344 h -23.73336 l -8.26668,-0.26667 -7.2,-0.8 q -12.26669,-2.4 -16.00002,-14.40002 -1.06667,-3.46667 -1.06667,-9.60001 l 0.53333,-9.33334 2.40001,-10.40002 q 4.8,-19.20002 17.60002,-28.00003 12.53335,-8.80001 36.53337,-8.80001 h 17.33336 z"
+     id="path10"
+     style="font-style:italic;font-size:266.667px;font-family:Newtown;-inkscape-font-specification:'Newtown, Italic';letter-spacing:3px;white-space:pre;shape-padding:4.26861;stroke:#ffffff;stroke-width:14.9174;stroke-linejoin:round;paint-order:markers stroke fill" /><path
+     style="letter-spacing:-8px"
+     d="m 424.12767,145.69098 h -38.40005 l -8.26668,34.93338 h 38.13338 z m -12.80002,51.20006 H 372.9276 l -34.66671,140.53351 h 38.13338 z"
+     id="path9" /><path
+     style="font-style:italic;font-size:266.667px;font-family:Newtown;-inkscape-font-specification:'Newtown, Italic';letter-spacing:5px;white-space:pre;shape-padding:4.26861;stroke:#ffffff;stroke-width:14.9174;stroke-linejoin:round;paint-order:markers stroke fill"
+     d="M 346.061,196.89104 H 214.32751 l -7.46668,30.66671 h 83.20011 l -103.20013,79.73343 -7.46668,30.13337 h 131.7335 l 7.46667,-30.13337 h -83.2001 l 103.20013,-79.73343 z"
+     id="path8" /></g></g>
+</svg>
